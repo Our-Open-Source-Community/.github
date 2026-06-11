@@ -1,6 +1,6 @@
 # Welcome to Our Open Source Community 🚀
 
-Unexplo is an open-source hub dedicated to solving real-world **AI use cases** through modular, interesting, and practical tools. 
+Open Source Community is an open-source hub dedicated to solving real-world **AI use cases** through modular, interesting, and practical tools. 
 
 ### 🤖 What we're building
 We maintain multiple repositories, each focused on a specific AI challenge—from automation and data-driven insights to experimental AI workflows.
